@@ -1,0 +1,21 @@
+node_modules
+.env
+coverage
+coverage.json
+typechain
+typechain-types
+
+# Hardhat files
+cache
+artifacts
+
+# Misc
+.DS_Store
+
+# Build
+dist
+docs
+abi
+
+# Env
+.env
